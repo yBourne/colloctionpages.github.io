@@ -2330,7 +2330,8 @@ input, select, textarea {
 		}
 
 			.image.featured img {
-				width: 100%;
+				/*width: 100%;*/
+				margin: auto;
 			}
 
 			@media screen and (max-width: 736px) {
